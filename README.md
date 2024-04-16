@@ -6,3 +6,9 @@ Se puede observar, en un gráfico de barras, los tipo de vehículos por fabrican
 Se muestra un histograma que muestra la relación entre la condición del vehículo frente al año del modelo.
 
 Finalmente se puede visualizar un diagrama de dispersión entre el precio y el kilometraje.
+
+# Enlace de repositorio de GitHub
+https://github.com/cAndresHO/proyecto.git
+
+# URL de la aplicación en Render
+https://proyecto-ph7b.onrender.com/
