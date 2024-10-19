@@ -1,4 +1,4 @@
-# proyecto
+# Proyecto
 El proyecto tiene como finalidad mostrar los datos de vehículos en Estados Unidos, se muestra el precio, año del modelo, modelo, su condición, cilindros, tipo de combustible, kilmetraje, transmisión y tipo de vehículo.
 
 Se puede observar, en un gráfico de barras, los tipo de vehículos por fabricante.
